@@ -1,6 +1,6 @@
 <?php
 
-namespace Egwk\LaravelScoutSphinx\Engine;
+namespace Diez\LaravelScoutSphinx\Engine;
 
 use Foolz\SphinxQL\Drivers\Pdo\Connection;
 use Foolz\SphinxQL\Drivers\ResultSetInterface;

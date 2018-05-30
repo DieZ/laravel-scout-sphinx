@@ -9,6 +9,9 @@
         "email": "hocnt84@gmail.com"
     },{
         "name": "peter"
+    },{
+        "name": "diez"
+	"email": "diez.eel@gmail.com"
     }],
     "require": {
         "laravel/scout": "*",
@@ -16,7 +19,14 @@
     },
     "autoload": {
         "psr-4": {
-            "Egwk\\LaravelScoutSphinx\\": "src/"
+            "Diez\\LaravelScoutSphinx\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Diez\\LaravelScoutSphinx\\SphinxEngineProvider"
+            ]
         }
     },
     "minimum-stability": "dev",
