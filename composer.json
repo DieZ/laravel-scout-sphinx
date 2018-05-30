@@ -25,7 +25,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Diez\\LaravelScoutSphinx\\SphinxEngineProvider"
+                "Diez\\LaravelScoutSphinx\\Provider\\SphinxEngineProvider"
             ]
         }
     },
