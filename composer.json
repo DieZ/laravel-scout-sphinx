@@ -22,13 +22,6 @@
             "Diez\\LaravelScoutSphinx\\": "src/"
         }
     },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Diez\\LaravelScoutSphinx\\Provider\\SphinxEngineProvider"
-            ]
-        }
-    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
