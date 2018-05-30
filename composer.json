@@ -10,7 +10,7 @@
     },{
         "name": "peter"
     },{
-        "name": "diez"
+        "name": "diez",
 	"email": "diez.eel@gmail.com"
     }],
     "require": {
